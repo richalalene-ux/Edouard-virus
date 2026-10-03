@@ -1,5 +1,5 @@
 let mots = {
-    "1010100111000": '<button onclick="window.location.href=\'https://www.google.com/imgres?q=pouceemoji&imgurl=https%3A%2F%2Fimages.emojiterra.com%2Fgoogle%2Fnoto-emoji%2Funicode-15%2Fcolor%2F512px%2F1f44d.png&imgrefurl=https%3A%2F%2Femojiterra.com%2Ffr%2Fpouce-leve%2F&docid=-7Zi62gDF57nwM&tbnid=PZZL-URsjDS_NM&vet=12ahUKEwjDnf76v5mXAxU7R1cBHSK-F80QnPAOegQIORAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjDnf76v5mXAxU7R1cBHSK-F80QnPAOegQIORAA\'">.<_>.</button>',
+    "1010100111000": '<button onclick="window.location.href=\'https://www.google.com/imgres?q=pouceemoji&imgurl=https%3A%2F%2Fimages.emojiterra.com%2Fgoogle%2Fnoto-emoji%2Funicode-15%2Fcolor%2F512px%2F1f44d.png&imgrefurl=https%3A%2F%2Femojiterra.com%2Ffr%2Fpouce-leve%2F&docid=-7Zi62gDF57nwM&tbnid=PZZL-URsjDS_NM&vet=12ahUKEwjDnf76v5mXAxU7R1cBHSK-F80QnPAOegQIORAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjDnf76v5mXAxU7R1cBHSK-F80QnPAOegQIORAA\'" target=_blank>.<_>.</button>',
        "01001101010000": " ",
     "0101": "a",
     "0110": "b",
